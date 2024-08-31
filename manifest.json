@@ -1,0 +1,14 @@
+{
+    "name": "s2sm",
+    "version": "1.0.0",
+    "description": "Find song meanings from spotify browser",
+    "manifest_version": 3,
+    "author": "Mason McManus",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Song Meaning"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
